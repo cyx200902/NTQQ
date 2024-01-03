@@ -20,3 +20,6 @@ DEB (loong64)：无
 修复了若干已知bug
 
 #QQ_NT_Linux
+
+Windows QQ（内测）
+https://dldir1.qq.com/qqfile/qq/QQNT/3427f89c/QQ9.8.1.11845.exe
